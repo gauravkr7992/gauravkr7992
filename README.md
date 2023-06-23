@@ -1,4 +1,4 @@
-
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frahulagale&psig=AOvVaw3XwqhW3Jx7l9J64rO3DCiU&ust=1687605210964000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPid0Lqh2f8CFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="img" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">

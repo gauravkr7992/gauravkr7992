@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="img" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-- ⚡ 😬 I'm co-operative and funny!**
+- ⚡ 😬 I'm co-operative and frank guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
